@@ -1,0 +1,473 @@
+RETRIEVAL EVALUATION LOG
+USED DATASET: paragraph chunking
+Chunk size: 800
+minimum chunk size: 100
+Timestamp: 20251229_225313
+Embedding model: hf.co/CompendiumLabs/bge-base-en-v1.5-gguf
+ELanguage model: hf.co/bartowski/Llama-3.2-1B-Instruct-GGUF
+Used Top-k: 10
+====================================================================================================
+
+====================================================================================================
+QUESTION:
+Can negative word tone in emails indicate on critical business processes?
+====================================================================================================
+
+[1] similarity=0.741
+[SOURCE: Emotion Detection in Email Customer Care -- 2010 -- W10-0202.pdf | PAGE: 1]
+--------------------------------------------------------------------------------
+to reduce the churn i. e., retain Inthispaper,
+werefertotheseemailsasemoingcustomerswhootherwisewouldhavetakentheir tionalemails.
+Theyprovidevaluablefeedback to improve contact center processes and cus- businesselsewhere, and,
+atthesametime, theyarea tomercare, aswellas, toenhancecustomerre- valuable source of information for
+improving busitention. Thispaperdescribesamethodforex- nessprocesses. tracting salient features and
+identifying emo In recurring service oriented businesses, a large tional emails in customer care.
+Salient features reflect customer frustration, dissatisfac- number of customer emails may contain
+routine tion with the business, and threats to either complaints. While such complaints are
+important leave, take legal action and/or report to au- and are addressed by customer service
+
+--------------------------------------------------------------------------------
+
+[2] similarity=0.739
+[SOURCE: 2024 - Drowning in emails - investigating email classes and work stressors as antecedents of high email load and implications for well-being - fpsyg-15-1439070.pdf | PAGE: 14]
+--------------------------------------------------------------------------------
+of email load. In our study, email load relied on the definition demands that include both a
+negative and a positive component, as a subjective feeling of having to read and process more emails
+than resulting in a net null effect. This perspective is not explicitly one believes one can
+actually handle (Dabbish and Kraut, 2006, addressed in action regulation theory, which traditionally
+focuses p. 431), emphasizing the high volume and low quality of emails on the proposition that all
+regulation problems act as stressors (Brown et al., 2014; Gupta et al., 2011; Sobotta, 2016; Stich
+et al., leading to negative outcomes. However, our findings, along with 2019b). However, there are
+also scholars who suggest that email load evidence from research on challenge stressors, suggest
+that the is a stat
+
+--------------------------------------------------------------------------------
+
+[3] similarity=0.738
+[SOURCE: How the use of Cc, Bcc, forward, and rewrite in email communication impacts team dynamics - 2020 -- 1-s2.0-S0747563220302302-main.pdf | PAGE: 8]
+--------------------------------------------------------------------------------
+one who did not correctly indicate their position in the organizational hi- recipient (Barley et
+al., 2011; Barron & Yechiam, 2002; Dabbish & erarchy were removed from further analyses. Kraut,
+2006). Despite this advantage, several recent studies have shown that email use can have severe
+negative effects on employees when used ineffectively (e. g., see Brown, Duck, & Jimmieson, 2014;
+Reinke & 6.2. Results Chamorro-Premuzic, 2014; Friedman & Currall, 2003). In the present research,
+we postulated that the way in which email communication is As in the previous two studies, we first
+investigated how our three executed will determine people’s moral judgment of and behaviors
+toincluded email functions influenced participants’ morality perceptions wards the sender of the
+message. To date, the con
+
+--------------------------------------------------------------------------------
+
+[4] similarity=0.732
+[SOURCE: 2024 - Drowning in emails - investigating email classes and work stressors as antecedents of high email load and implications for well-being - fpsyg-15-1439070.pdf | PAGE: 13]
+--------------------------------------------------------------------------------
+ail information are more harmful. Together with the study by Dietz et al. demands scale (Steffensen
+et al., 2022), for example, may therefore have on information and communication technology use more
+been falsely attributed to email use in general, whereas our findings generally, our work represents
+an initial test of differentiating email suggest a finer distinction of email classes. This may
+stimulate future function to offer more accurate insights into the origins of email load. research
+to examine the potential dual process in more detail. In sum, our studies clearly suggest that email
+demands should no longer be measured as a higher-order construct subsuming both emails received and
+processed and both email functions. Studies that 11 General discussion have employed the scales by
+Brow
+
+--------------------------------------------------------------------------------
+
+[5] similarity=0.732
+[SOURCE: For whom and under what circumstances does email message batching work - 2022 -- 1-s2.0-S221478292200001X-main.pdf | PAGE: 2]
+--------------------------------------------------------------------------------
+s due to emailing at work led to more time tive association with goal progress (threatening
+dedication) and could pressure, which in turn elicited negative affective responses. Similarly,
+hamper prolonged captivation in the job (threatening absorption, Parke Baethge and Rigotti showed
+that hindered goal progress due to et al., 2018). work interruptions can result in increased time
+pressure and feelings of We extend experimental research on the topic of email batching in
+irritation. Notably, negative affective responses may further fuel two ways. First and foremost, in
+contrast to participants in previous
+
+--------------------------------------------------------------------------------
+
+[6] similarity=0.730
+[SOURCE: 2022 - A framework for mining process models from email logs - 1609.06127v1.pdf | PAGE: 15]
+--------------------------------------------------------------------------------
+ombines the concepts of email analysis, activity recognition and business process discovery. Similar
+to our work, the approach in Mavaddat et al. has been suggested to classify emails into business and
+non business oriented categories. The business-oriented emails are then grouped into threads using
+the similarity measurement to deduce process instances, from which the process model can be obtained
+fianlly. The authors suggest some preliminary ideas for labeling
+interactionsbetweenrolesinprocessinstancesbyusingtheclassificationofillocutionary speech acts
+assertive, directive, commissive, expressive, declarations suggested by Searl et al. .
+Theapproachappliedby Khoussainovetal. exploitstherelationalstructurebetweentwoproblems:
+(i)extractingspeechacts,(ii)findingrelatedemails. Instead of atta
+
+--------------------------------------------------------------------------------
+
+[7] similarity=0.728
+[SOURCE: 2022 - For whom and under what circumstances does email message batching work - main.pdf | PAGE: 2]
+--------------------------------------------------------------------------------
+s due to emailing at work led to more time tive association with goal progress (threatening
+dedication) and could pressure, which in turn elicited negative affective responses. Similarly,
+hamper prolonged captivation in the job (threatening absorption, Parke Baethge and Rigotti showed
+that hindered goal progress due to et al., 2018). work interruptions can result in increased time
+pressure and feelings of We extend experimental research on the topic of email batching in
+irritation. Notably, negative affective responses may further fuel two ways. First and foremost, in
+contrast to participants in previous
+
+--------------------------------------------------------------------------------
+
+[8] similarity=0.727
+[SOURCE: How the use of Cc, Bcc, forward, and rewrite in email communication impacts team dynamics - 2020 -- 1-s2.0-S0747563220302302-main.pdf | PAGE: 9]
+--------------------------------------------------------------------------------
+cc option or forwarding an exact copy or a rewritten version of an email Although the use of these
+email options might appear trivial on the message—can negatively impact team dynamics. surface, our
+results clearly show that the employment of these email features may have far reaching consequences.
+More specifically, the 7.2. Theoretical contributions observation that the Bcc and the forward
+option both negatively impact the sender of the message alarms organizational agents that secretly
+The present research makes several important contributions to the including supervisors may have
+undesirable effects. To avoid the negaliterature. Despite anecdotal evidence suggesting that people
+may react tive effects that are associated with Bcc and forward use, we first of all negatively when
+someone
+
+--------------------------------------------------------------------------------
+
+[9] similarity=0.726
+[SOURCE: 2022 - For whom and under what circumstances does email message batching work - main.pdf | PAGE: 2]
+--------------------------------------------------------------------------------
+will be regarded as 2017; Lin et al., 2013; Wheeler et al., 2013). We chose work engagean unwelcome
+event and trigger a negative emotional response. ment, “a positive, fulfilling, work-related state
+of mind that is charac Furthermore, following affective events theory (Weiss and Cropanzano, terized
+by vigor, dedication, and absorption” (Schaufeli et al., 2002, p. 1996), email interruptions are
+likely perceived as incompatible with 74) and the antipode of burnout. Work engagement was selected,
+goal progress and goal attainment and, for this reason, thwart well-being because email
+interruptions likely take a heavy toll on workers' energy (Puranik et al., 2020). In a daily diary
+study, Sonnentag et al. resources (threatening vigor), may be demotivating due to their negashowed
+that interruption
+
+--------------------------------------------------------------------------------
+
+[10] similarity=0.726
+[SOURCE: 2024 - Drowning in emails - investigating email classes and work stressors as antecedents of high email load and implications for well-being - fpsyg-15-1439070.pdf | PAGE: 13]
+--------------------------------------------------------------------------------
+Kern et al. 10.3389/fpsyg.2024.1439070 challenge stressors (e. g., Widmer et al., 2012). Thus,
+previous results may and Derks, 2012), as communication-related emails do not involve have been
+subject to significant bias due to the omission of considering such. Thus, the distinction between
+task- and communication-related the distinct effects associated with whether individuals solely
+receive or emails based on previous research (Addas and Pinsonneault, 2018; actively process emails,
+as well as the specific function of email (e. g., Rice and Leonardi, 2014; Wang et al., 2020) brings
+a new perspective Brown et al., 2014). Findings on email load that have been based on the on email
+use, suggesting that emails containing less relevant email quantity scale (e. g., Dabbish and Kraut,
+2006) or the em
+
+--------------------------------------------------------------------------------
+Enter positions of relevant results. Example: 1,3 (comma-separated, empty if none are relevant)
+Recorded relevant positions: []
+
+====================================================================================================
+QUESTION:
+What can the long time between receiving an email and replying to it tell us
+====================================================================================================
+
+[1] similarity=0.745
+[SOURCE: 2003 - When Can I Expect an Email Response - A Study of Rhythms in Email Usage - 00185.pdf | PAGE: 9]
+--------------------------------------------------------------------------------
+d to cause you to use an auto-reply message?” The most common response was one day (8 out of 24),
+followed by two days and one week . The other 7 respondents did not use an auto-reply mechanism. One
+interesting use of the auto-reply feature was described by Ellen, a supply buyer. She typically
+takes a day to catch up on email after returning from an extended trip. During this time, she may be
+less responsive to new incoming mail. Her solution is to leave the “Out-of-office” auto-reply
+feature activated during this day after she returns (even though she is in her office), conveying to
+senders that they should not expect her typical responsiveness. We later learned of an example
+(outside of our interview study) of another user, Sam, who always leaves an auto-reply message on.
+The message exp
+
+--------------------------------------------------------------------------------
+
+[2] similarity=0.742
+[SOURCE: 2003 - When Can I Expect an Email Response - A Study of Rhythms in Email Usage - 00185.pdf | PAGE: 12]
+--------------------------------------------------------------------------------
+e incomplete, but the thread could resolve to a conclusion within a day. However, email
+correspondents with international colleagues who were time shifted by seven hours or more exhibited
+a different pattern. Since they could not expect a response within a day, people talked about
+thinking more carefully about those messages and taking the time to be more clear, explicit, and
+complete. Gary, a California-based member of a field services team, commented on correspondence with
+people in Europe or Asia,
+
+--------------------------------------------------------------------------------
+
+[3] similarity=0.741
+[SOURCE: 2003 - When Can I Expect an Email Response - A Study of Rhythms in Email Usage - 00185.pdf | PAGE: 5]
+--------------------------------------------------------------------------------
+kly they had responded in the past, and that they could form this expectation after just a few
+interactions. The time that users reported expecting an email response ranged from fifteen minutes
+to a few days. This varied depending on the urgency of the message, the correspondents involved, and
+the work culture. Expectations for quick responses (under an hour) reflected a high level of
+knowledge about the recipient’s availability and behavior. In cases where little context about the
+recipient was known, the expectation was usually one day (mentioned by 16 out of 24 Phase II
+subjects). … I would typically think it should be 24 hours. Even if they don’t have the answer they
+should at least say, ‘I got your email, it will require a little bit of research, and I’ll get back
+to you by whenever.’
+
+--------------------------------------------------------------------------------
+
+[4] similarity=0.741
+[SOURCE: 2003 - When Can I Expect an Email Response - A Study of Rhythms in Email Usage - 00185.pdf | PAGE: 14]
+--------------------------------------------------------------------------------
+For example, Patty, a solutions manager, will frequently scan the last week’s worth of email in her
+inbox to assess whether or not she’s maintained her responsiveness image on a per-person basis: I
+also take a look a lot at what’s happened in the last seven days, and did I respond to everything
+that’s been going on… I do it on a daily basis… In the last seven days, I’ve gotten three messages
+from Annie, seven messages from John, that kind of thing, what were those messages about, and am I
+still keeping up with all that. We also noticed several instances of the same two people carrying on
+two or more overlapping conversations, each with distinct timing patterns. These observations
+suggest that reciprocity can be a per-conversation as well as a perrelationship phenomenon. Another
+type of re
+
+--------------------------------------------------------------------------------
+
+[5] similarity=0.738
+[SOURCE: 2003 - When Can I Expect an Email Response - A Study of Rhythms in Email Usage - 00185.pdf | PAGE: 7]
+--------------------------------------------------------------------------------
+hink I should know, I should keep checking. Many of our interviewees (11 out of 13 at Sun) claimed
+to use a simple responsiveness-maintenance technique: If they are unable to respond in a
+“reasonable” amount of time (usually about 24 hours), they send a message saying they need more
+time. In this way, they are able to preserve a responsive image. I usually will get back to email or
+people the same day, … even if it’s just to say ‘I need to look into that and I’ll get back to you
+as soon as I can.’ Because I kind of think it’s rude if you ask someone for information and they
+just totally ignore you. It’s one thing if they need time
+
+--------------------------------------------------------------------------------
+
+[6] similarity=0.736
+[SOURCE: 2003 - When Can I Expect an Email Response - A Study of Rhythms in Email Usage - 00185.pdf | PAGE: 7]
+--------------------------------------------------------------------------------
+esponds very quickly to her email (usually within an hour). She had just begun an email relationship
+with her 11year old niece where she was very deliberate about the pacing of her messages— she
+responds within a day. It’s something I want to keep open, and so I may, on purpose, spread out my
+responses a little bit, so that she doesn’t think it’s a chore to respond to me, and then we can
+have more of an interaction, actually, than we’ve been able to have in the past. People attempt to
+project an image in order to counteract assumptions that people might otherwise make about
+responsiveness. For example, Cindy, an engineer who works at home twice a week explained: I think I
+check mail more often when I’m at home. Because I feel I’m out of the group, say if they suddenly
+set up a meeting, I t
+
+--------------------------------------------------------------------------------
+
+[7] similarity=0.736
+[SOURCE: Y U NO ANSR - ELECTRONIC COMMUNICATION CHRONEMICS  - fulltext.pdf | PAGE: 17]
+--------------------------------------------------------------------------------
+study was the type of responses given when a responder exceeded the average expected response time
+for email. When a person responded 2-2 ½ weeks after the original email, some responses included an
+apology and explanation (Kalman, et. al, 2006). However, there were instances during this time
+period when a person responded with a follow-up email in reference to the subject matter and not an
+answer to previous inquiry from the original email request. Furthermore, once a person’s response
+time exceeded a month,
+
+--------------------------------------------------------------------------------
+
+[8] similarity=0.732
+[SOURCE: 2003 - When Can I Expect an Email Response - A Study of Rhythms in Email Usage - 00185.pdf | PAGE: 18]
+--------------------------------------------------------------------------------
+based on historical rhythms could also be modified by other inputs tracked by a dynamically updated
+awareness service. Just as current IM systems detect when users are logged on and how recently they
+have been active on their computer keyboard, this information could be tracked over time and used to
+develop a sense of how much opportunity a user has had to access and thus respond to email. That is,
+if an email recipient has been away from his keyboard more than usual, it might lengthen the time
+before a response should be expected without triggering an indication that a breakdown has occurred.
+Another factor that could be tracked is the recipient’s current backlog of email. If an email
+recipient currently has a larger than usual number of unread messages in her inbox, she may not be
+able t
+
+--------------------------------------------------------------------------------
+
+[9] similarity=0.730
+[SOURCE: Mining Business Process Information from Email Logs for Business Process Models Discovery - 2019 - paper1.pdf | PAGE: 4]
+--------------------------------------------------------------------------------
+ore, we extract the temporal relation: 1) Between the email activities and the email timestamp: the
+objective is to temporally locate an email activity accordingtotheemailtimestampinwhichitoccurs. To
+be accurate, we can divide the relation between the activity and the email timestamp into different
+categories. Possible categories are Before: in which the activity occurs before the email sending
+time, Overlap in which theactivityoccursatthetimetheemailissentand After in which the activity will
+occur after the email sending time. 2) Between the email activities themselves: the objective
+hereistoextracttheintratemporalrelationsbetweenthe email activities using the email temporal
+expressions. VIII. CONCLUSIONSANDPERSPECTIVES Throughout the sections of this paper, we described
+the main approaches
+
+--------------------------------------------------------------------------------
+
+[10] similarity=0.729
+[SOURCE: 2003 - When Can I Expect an Email Response - A Study of Rhythms in Email Usage - 00185.pdf | PAGE: 8]
+--------------------------------------------------------------------------------
+to find out the answer, but it’s nice to hear that, that they’re in the office, that they received
+your message but just need some time to think about it. Since users invest substantial effort to
+maintain a certain responsiveness image, they were frustrated to learn that their image could be
+undermined by features in their email client such as read-receipts. The default settings for
+Microsoft Outlook among the users we interviewed were that receivers were unaware that they were
+generating a read-receipt when they read e-mail messages. Thus, they did not realize that the
+senders could have more revealing information about when they read the messages than they were
+trying to project. This lack of control of what information others have of your activities can
+frustrate the maintenance of a re
+
+--------------------------------------------------------------------------------
+Enter positions of relevant results. Example: 1,3 (comma-separated, empty if none are relevant)
+Recorded relevant positions: [2]
+
+====================================================================================================
+QUESTION:
+Is there a connection between critical business processes and long email response times?
+====================================================================================================
+
+[1] similarity=0.764
+[SOURCE: Discovery and analysis of e-mail-driven business processes  - 1-s2.0-S0306437911001177-main.pdf | PAGE: 1]
+--------------------------------------------------------------------------------
+zetheimportanceofe-mailinbusinessprocess lotoftimeindailyworkpractice. Thenetresultisthatthe
+management[1,7–9]. Theoverallgoalofbusinessprocess partofthebusinessactivityassociatedwithhumane-
+mail communication remains opaque, and is not amenable to properprocessanalysisandimprovement. n
+Correspondingauthor. Tel.:þ31503632917; Few attempts have been made to discover, visualize,
+fax:þ31503632275. and/oranalyzee-mail-drivenbusinessprocesses. Thereis E-mailaddresses: m.
+stuit@rug. nl(M. Stuit), j. c. wortmann@rug. nl(H. Wortmann). a noticeable lack of research into
+methods and tools in 0306-4379/$-seefrontmatter&2011Elsevier Ltd. Allrightsreserved. doi:10.1016/j.
+is.2011.09.008
+
+--------------------------------------------------------------------------------
+
+[2] similarity=0.758
+[SOURCE: You don’t need to answer right away - Receivers overestimate how quickly senders expect responses to non-urgent work emails - 2021 --1-s2.0-S0749597821000807-main.pdf | PAGE: 1]
+--------------------------------------------------------------------------------
+(National Study of the Changing Workforce, 2017), we found that 51.1% of employees sent or responded
+to emails outside of normative work The proliferation of communication technologies, such as email
+and hours. Arguably most off-hours emails do not require an immediate other online messaging tools,
+has enabled easier and faster information response. Yet, according to some estimates (Kelleher,
+2013), the masharing (Higa, Sheng, Shin, & Figueredo, 2000; Sproull & Kiesler, 1986). jority of
+employees (76%) typically reply within the hour, with 32% At the same time, this increased
+connectivity coupled with the difficulty indicating that they would reply within 15 minutes. These
+statistics of measuring actual performance in today’s knowledge economy has led suggest that email
+is not only a prima
+
+--------------------------------------------------------------------------------
+
+[3] similarity=0.754
+[SOURCE: 2006 - Pauses and Response Latencies - A Chronemic Analysis of Asynchronous CMC  - jjcmcom0001.pdf | PAGE: 8]
+--------------------------------------------------------------------------------
+mail users for whom morethan50uniqueresponsesexistedshowedthatonly65%ofthemmetthe
+strictcriterionthattheiraverageresponselatencywasatorabovethe80thpercentile. However, a slight
+relaxation of the criterion revealed that 95% of them created 70% or more of their responses within
+less than their average response Enron emails y = 5614.7x-2.0431 R2= 0.9475 1 10 100 Days ycneuqer F
+1 10 100 ycneuqer F Google answers y = 11593x-1.7571 R2 = 0.954 Hours University forum y =
+4E+08x-1.7399 R2 = 0.9583 10 100 1000 10000 100000 Minutes ycneuqer F Figure 1
+Powerlawplotsofthecumulativeresponselatenciesofthethreedatasets 8 Journalof Computer-Mediated
+Communication121–23ª2006International Communication Association Downloaded from https://academic.
+oup. com/jcmc/article/12/1/1/4582956 by guest on December
+
+--------------------------------------------------------------------------------
+
+[4] similarity=0.750
+[SOURCE: For whom and under what circumstances does email message batching work - 2022 -- 1-s2.0-S221478292200001X-main.pdf | PAGE: 1]
+--------------------------------------------------------------------------------
+kers dealing with high email volumes and workers believing that instantaneous response was not
+expected in their organization. The effects of email batching wore off after two weeks and no
+significant effects on work engagement were found. We conclude that email batching should not be
+regarded as panacea for enhancing well-being and should only encouraged if it fits with workers' job
+tasks and organizational expectations regarding email response times more generally. 1. Introduction
+Sheer and Rice, 2017; Ten Brummelhuis et al., 2012; Wajcman and Rose, 2011). For example, Wajcman
+and Rose demonstrated that for “The trick is to turn it off and only check occasionally and people
+do many workers high connectivity is pivotal for staying informed on task not expect immediate
+answers. If it is ur
+
+--------------------------------------------------------------------------------
+
+[5] similarity=0.749
+[SOURCE: Discovery and analysis of e-mail-driven business processes  - 1-s2.0-S0306437911001177-main.pdf | PAGE: 17]
+--------------------------------------------------------------------------------
+158 M. Stuit, H. Wortmann/Information Systems37142–168 architectural design interactions, Company X
+is involved 7. Relatedwork moreactivelyfromthestart. Company Xorderstherequiredhardwarebasedonthe As
+motivated in the introduction, e-mail communica BOM(taskein Fig.9). Whenthehardwarearrives, Company
+tionisoneoftheprimarymethodsforbusinesscollabora X sets up the datacenter environment (tasks f, g,
+and h in tion, and many organizations are starting to recognize Fig.9).
+Detailedinspectionoftheoutputmodel, incoopera- e-mail as an important part of their business
+activity. tion with the key informant, revealed 24 interactions that Employees spend so much time
+managing their e-mail areconcernedwith(disk)hardwarecapacitymanagement. that e-mail overload is
+becoming a problem [1,72–74]. These interactions cent
+
+--------------------------------------------------------------------------------
+
+[6] similarity=0.746
+[SOURCE: 2003 - When Can I Expect an Email Response - A Study of Rhythms in Email Usage - 00185.pdf | PAGE: 3]
+--------------------------------------------------------------------------------
+the merger and through the business school students, we got a glimpse of email behaviors beyond the
+two main companies from which the subjects were drawn. The subjects were regular email users and
+spanned a wide range of positions— research, development, sales, marketing, communications,
+administration, management, legal, etc. We note when our observations differ due to the
+organizational context of the subject’s email use. Interviews lasted from 40-60 minutes and were
+generally conducted in the subject’s workspace. For most of our subjects, the workspace was a
+typical office setting—in front of a computer, on a desk, in either an office or a cubicle. The
+three interviews with business students were conducted in a university computer lab, and six
+interviews with remote subjects were condu
+
+--------------------------------------------------------------------------------
+
+[7] similarity=0.745
+[SOURCE: You don’t need to answer right away - Receivers overestimate how quickly senders expect responses to non-urgent work emails - 2021 --1-s2.0-S0749597821000807-main.pdf | PAGE: 13]
+--------------------------------------------------------------------------------
+that the email urgency bias might be more tions of email response speed expectations. However, as is
+the case with pronounced in organizations where colleagues never or rarely respond any research
+paradigm, these procedures are not without limitations, to non-urgent work emails sent outside work
+hours (see Online Sup- including concerns with inaccurate or biased recall and potential lack of
+plement for detailed results). Similarly, although we focused on diver- external validity. Future
+research could address these limitations by gence in response speed expectations in the moment, time
+zone examining the email urgency bias over time using longitudinal designs. differences could help
+mitigate or exacerbate the email urgency bias and its negative consequences. Indeed, the email
+urgency bias
+
+--------------------------------------------------------------------------------
+
+[8] similarity=0.742
+[SOURCE: 2023 - Managing in Writing - Recommendations from Textual Patterns in Managers’ Email Communication - 10.1177_23294906221137860.pdf | PAGE: 5]
+--------------------------------------------------------------------------------
+n answering, and their “impersonal” character, which is counterproductive to team-building. Although
+email communication provides users with response flexibility by normalizing a time lag between
+message reception and reply (Cambier & Vlerick, 2020), business norms regarding email responsiveness
+have been evolving systematically and involve pressure to respond to a message within 24 hours
+(Barber & Santuzzi, 2015; Grawitch et al., 2018). It has also been determined that some types of
+information in the organizational environment are better suited to email mode than other forms.
+Employees point out that project-related and “core business” issues are likely to be transmitted via
+email (with information archived and evidenced), as are security and safety announcements. Meanwhile
+praise, annua
+
+--------------------------------------------------------------------------------
+
+[9] similarity=0.739
+[SOURCE: 2006 - Pauses and Response Latencies - A Chronemic Analysis of Asynchronous CMC  - jjcmcom0001.pdf | PAGE: 7]
+--------------------------------------------------------------------------------
+tile analysis was then repeated for all individual users in the Enron emails dataset,
+aswellasfor15individualsfromthe Google Answersdataset(thefiveusers with the largest number of
+responses) and 10 of the users with 100-120 responses. Finally, asmallsampleof
+Enronemailresponsesthatwerecreatedafteralongdelay was selected, and its contents inspected. Results
+Distribution of Response Latencies 115,416 University forum responses, 15,815 Enron email responses,
+and 40,072 Google Answers were analyzed. Despite the diverse sources of these responsiveness
+Journalof Computer-Mediated Communication121–23ª2006International Communication Association 7
+Downloaded from https://academic. oup. com/jcmc/article/12/1/1/4582956 by guest on December
+
+--------------------------------------------------------------------------------
+
+[10] similarity=0.738
+[SOURCE: 2022 - Managing in Writing -  Recommendations from Textual Patterns in Managers Email Communication - 10.1177_23294906221137860.pdf | PAGE: 5]
+--------------------------------------------------------------------------------
+n answering, and their “impersonal” character, which is counterproductive to team-building. Although
+email communication provides users with response flexibility by normalizing a time lag between
+message reception and reply (Cambier & Vlerick, 2020), business norms regarding email responsiveness
+have been evolving systematically and involve pressure to respond to a message within 24 hours
+(Barber & Santuzzi, 2015; Grawitch et al., 2018). It has also been determined that some types of
+information in the organizational environment are better suited to email mode than other forms.
+Employees point out that project-related and “core business” issues are likely to be transmitted via
+email (with information archived and evidenced), as are security and safety announcements. Meanwhile
+praise, annua
+
+--------------------------------------------------------------------------------
+Enter positions of relevant results. Example: 1,3 (comma-separated, empty if none are relevant)
+Recorded relevant positions: [10]
+
+============================================================
+FINAL RETRIEVAL METRICS
+============================================================
+Recall@10: 0.667
+Precision@10: 0.067
+Queries evaluated: 3
