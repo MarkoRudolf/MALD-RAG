@@ -137,7 +137,7 @@ is 1.1. Theoretical underpinnings and empirical evidence likely due to workers p
 
 --------------------------------------------------------------------------------
 Enter positions of relevant results. Example: 1,3 (comma-separated, empty if none are relevant)
-Recorded relevant positions: [0]
+Recorded relevant positions: []
 
 ====================================================================================================
 QUESTION:
@@ -418,6 +418,7 @@ Recorded relevant positions: [1, 9]
 ============================================================
 FINAL RETRIEVAL METRICS
 ============================================================
-Recall@10: 1.000
-Precision@10: 0.133
+Recall@10: 0.667
+Precision@10: 0.100
 Queries evaluated: 3
+
